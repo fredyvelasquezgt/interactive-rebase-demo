@@ -8,7 +8,6 @@ The initial commit log:
 655204d fix another navbar typo
 2a45e71 fix navbar typos
 4ff2290 add top navbar
-6e39a76 whoops forgot to add bootstrap js script
 240827f add bootstrap
 519aab6 add basic HTML boilerplate
 cbee26b I added project files
