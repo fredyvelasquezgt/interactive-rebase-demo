@@ -9,7 +9,6 @@ The initial commit log:
 4ff2290 add top navbar
 240827f add bootstrap
 519aab6 add basic HTML boilerplate
-cbee26b I added project files
 0e19c7a initial commit
 ```
 The end goal:
