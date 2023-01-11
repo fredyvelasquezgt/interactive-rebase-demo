@@ -5,7 +5,6 @@ Let's take this absurd commit history and use interactive rebase to clean things
 The initial commit log:
 
 ```
-655204d fix another navbar typo
 2a45e71 fix navbar typos
 4ff2290 add top navbar
 240827f add bootstrap
